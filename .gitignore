@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.DS_Store
+
+# Local generated test media; never publish to GitHub
+/test-data/
